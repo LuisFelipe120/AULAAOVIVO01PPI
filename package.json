@@ -1,0 +1,26 @@
+{
+  "name": "aulaaovivo01ppi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/LuisFelipe120/AULAAOVIVO01PPI.git)"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "author": "Luis",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
